@@ -1,0 +1,8 @@
+IRR.L
+RIO
+WPM
+VALE
+gold
+silver
+platinum
+palladium 
